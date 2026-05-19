@@ -1,4 +1,4 @@
-# Sybrin Digital Onboarding & Document Intelligence API
+# Digital Onboarding & Document Intelligence API
 
 ## Project Overview
 This repository contains a specialized Machine Learning API designed for **Digital Onboarding** and **KYC (Know Your Customer)** compliance. Inspired by Sybrin's focus on financial services in Africa, this tool automates the extraction of data from identification documents.
